@@ -16,7 +16,7 @@
 ## 📜 Other Skills:
 - *Design Tools:* Canva
 
-📫 Contact:
+## 📫 Contact:
 Email:jsantanaortiz1701@gmail.com
 
 LinkedIn:https://www.linkedin.com/in/jean-carlos-santana-ortiz-a88313321/
