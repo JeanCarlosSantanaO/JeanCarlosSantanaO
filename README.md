@@ -1,16 +1,29 @@
-## Hi there 👋
+💻 Tech Stack:
+JavaScript TypeScript .Net Angular GitHub Visual Studio CSS3 HTML5 Windows Terminal Flutter Swagger
 
-<!--
-**JeanCarlosSantanaO/JeanCarlosSantanaO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Tools & Platforms:
+Version Control: GitHub, Git
 
-Here are some ideas to get you started:
+IDEs: Visual Studio, Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Databases:
+MicrosoftSQLServer MySQL Postgres
+
+🚀 Frameworks & Libraries:
+Frontend: Angular
+
+Backend: .NET
+
+State Management: Redux (si lo usas con Angular)
+
+📜 Other Skills:
+Design Tools: Canva
+
+📫 Contact:
+Email: vegarosario.rafael@gmail.com
+
+LinkedIn: www.linkedin.com/in/jose-rafael-vega-rosario-1153a317b
+
+GitHub: Yunkaiz-dev
+
+Leyenda: "Construyendo soluciones innovadoras con las mejores tecnologías 🚀"
