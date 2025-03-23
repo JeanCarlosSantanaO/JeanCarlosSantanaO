@@ -20,10 +20,10 @@ State Management: Redux (si lo usas con Angular)
 Design Tools: Canva
 
 📫 Contact:
-Email: vegarosario.rafael@gmail.com
+Email:jsantanaortiz1701@gmail.com
 
-LinkedIn: www.linkedin.com/in/jose-rafael-vega-rosario-1153a317b
+LinkedIn:https://www.linkedin.com/in/jean-carlos-santana-ortiz-a88313321/
 
-GitHub: Yunkaiz-dev
+GitHub: JeanCarlosSantanaO
 
 Leyenda: "Construyendo soluciones innovadoras con las mejores tecnologías 🚀"
