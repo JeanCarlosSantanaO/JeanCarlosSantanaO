@@ -11,7 +11,7 @@
 ## 🚀 Frameworks & Libraries:
 - *Frontend:* Angular
 - *Backend:* .NET
-- *State Management:* Redux (si lo usas con Angular)
+
 
 ## 📜 Other Skills:
 - *Design Tools:* Canva
